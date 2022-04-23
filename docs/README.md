@@ -1,10 +1,10 @@
 # Lab 01 - Build a kubernetes test environment
 In this lesson you will build a kubernetes based test environment that incudes several tools including:
 
-- Docker - [todo: docker blurb]
-- Kubectl - [todo: blurb ]
-- Kind - [ todo: kind blurb ]
-- Helm 3 - [ todo: helm blurb ]
+- Docker
+- Kubectl 
+- Kind 
+- Helm 3 
 
 Please review the follwing diagram for an overview of the target envrionment. 
 
