@@ -8,7 +8,7 @@ In this segment we'll install an ingress controller to our cluster.
 kubectl apply -f https://github.com/datawire/ambassador-operator/releases/latest/download/ambassador-operator-crds.yaml
 ```
 
-###  Deploy ambassador CRD's
+###  Deploy ambassador operator
  ```
  {
    kubectl apply -n ambassador -f https://github.com/datawire/ambassador-operator/releases/latest/download/ambassador-operator-
@@ -16,7 +16,6 @@ kubectl apply -f https://github.com/datawire/ambassador-operator/releases/latest
  
    kubectl wait --timeout=180s -n ambassador --for=condition=deployed ambassadorinstallations/ambassador
 
-   kubectl apply -f https://github.com/datawire/ambassador-operator/releases/latest/download/ambassador-operator-crds.yaml
  }
  ```
 
