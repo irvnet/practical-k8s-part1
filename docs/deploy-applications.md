@@ -1,8 +1,9 @@
   
 ## Deploy applications to the cluster   
 In this segment we'll deploy applications into our cluster to be reviewed
-- nginx - pre-packaged web server 
-- guestbook - microservice-service application [application](https://github.com/kubernetes/examples)
-- build/deploy a container - clone a repo with a python app, build the container and deploy
-- 2-tier app deploy - postgres, build node.js image, add ingress route
+- nginx - containerized web server for easy deployment
+- guestbook - microservice-service based sample [application](https://github.com/kubernetes/examples)
+- flask app - package and deploy container with a Flask/Python api
+- node.js app - package and deploy containers with a node.js api and database
+
 
