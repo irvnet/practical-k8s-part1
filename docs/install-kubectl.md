@@ -23,3 +23,6 @@ In this segment we'll install the [kubectl](#) client for our kubernetes cluster
 
 Congratulations! your kubectl installation is complete.
 
+---
+
+**Next: [Install Kind Cluster](install-kind.md)**

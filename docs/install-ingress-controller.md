@@ -22,3 +22,6 @@ kubectl apply -f https://github.com/datawire/ambassador-operator/releases/latest
 
 Congratulations! your ingress controller installation is complete.
 
+---
+
+**Next: [Deploy Applications](deploy-applications.md)**

@@ -48,3 +48,6 @@ In this segment we'll install [Docker](#). Docker provides both a runtime and bu
 
 Congratulations! your Docker installation is complete.
 
+---
+
+**Next: [Install Kubectl](install-kubectl.md)**

@@ -17,3 +17,6 @@ In this segment we'll install [helm](#) as our kubernetes package manager.
 
 Congratulations! your Helm installation is complete.
 
+---
+
+**Next: [Install Ingress Controller](install-ingress-controller.md)**

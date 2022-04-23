@@ -16,3 +16,6 @@ In this segment we'll install [kind](#) as our kubernetes cluster.
 
 Congratulations! your kubernetes cluster installation is complete.
 
+---
+
+**Next: [Install Helm](install-helm.md)**
