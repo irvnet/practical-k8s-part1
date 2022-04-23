@@ -30,6 +30,8 @@ Build a kubernetes test environment:
 
 - [Install Kind](install-kind.md)
 
+- [Install Helm](install-helm.md)
+
 - [Install Ingress Controller](install-ingress-controller.md)
 
 - [Deploy Applications](deploy-applications.md) 
